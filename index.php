@@ -1,9 +1,5 @@
 <?php
 
-echo "Olá mundo 23244";
-
-echo "Olá Mr";
-
-echo "Olá white hat;
-
+echo "Olá mundo beleza??";
+echo "Olá Mr. batman";
 ?>
