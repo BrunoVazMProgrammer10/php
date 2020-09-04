@@ -1,5 +1,8 @@
 <?php
 
-echo "Olá mundo beleza??";
-echo "Olá Mr. batman";
+
+echo "Olá programadores";
+
+echo "Olá white hat;
+
 ?>
